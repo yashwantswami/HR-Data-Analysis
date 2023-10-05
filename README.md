@@ -5,7 +5,7 @@ In this end-to-end data analytics project, we will take a REAL dataset for emplo
 
 This Dashboard Helps HR to Analysis 3 months employee Presence %, WFH %, Sick Leave % and many other prefrence according to data analysis.
 
-##Steps:
+Steps:
 1. Gathering information and Transforming Data
 2. Creating Matrix using DAX
 3. Create Dashboarding
